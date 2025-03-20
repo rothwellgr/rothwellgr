@@ -1,6 +1,10 @@
 Hello, 
 
-I'm a software tester, to put it broadly. So far, here, I've uploaded this minimal extendable task-centric Selenium test in C#, which can be found here: https://github.com/rothwellgr/task-centric-selenium/. Much more to come.
+I'm a software tester, to put it broadly. So far, here, I've uploaded these minimal extendable task-centric Selenium tests in C# and Python, which can be found here: 
+* https://github.com/rothwellgr/task-centric-selenium/
+* https://github.com/rothwellgr/task-centric-robot-framework/
+
+Much more to come.
 
 I'm also currently (re)studying web development in my free time, via The Odin Project (see https://www.theodinproject.com/) - development skills elevate my testing skills :muscle:. The curriculum includes completing and hosting projects to demonstrate skill in the relevant technologies, of which I'm hosting here:
 
