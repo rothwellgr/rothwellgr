@@ -4,8 +4,9 @@ As a software tester, I've uploaded these baseline testing frameworks for end-to
 * C# https://github.com/rothwellgr/WebTestingBaselineCSharp/
 * Python https://github.com/rothwellgr/webtestbase/
 
-And this baseline API testing framework:
+And some baseline API testing frameworks:
 * C# https://github.com/rothwellgr/APITestingBaselineCSharp/
+* Python https://github.com/rothwellgr/apitestbase/
 
 <br/>
 <br/>
