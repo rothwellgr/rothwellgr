@@ -1,6 +1,4 @@
-Some of my automated software testing templates that I might use:
-
-### End-to-End testing
+### End-to-End testing baseline
 
 #### C#
 Selenium web: <a>https://github.com/rothwellgr/WebTestingBaselineCSharp/</a>
@@ -9,7 +7,7 @@ Selenium web: <a>https://github.com/rothwellgr/WebTestingBaselineCSharp/</a>
 Selenium web: <a>https://github.com/rothwellgr/webtestbase/</a>
 
 
-### API testing
+### API testing baseline
 
 #### C#
 RestSharp web: <a>https://github.com/rothwellgr/APITestingBaselineCSharp/</a>
